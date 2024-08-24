@@ -1,0 +1,6 @@
+com\bus\reservation\controller\UserController.class
+com\bus\reservation\model\User.class
+com\bus\reservation\ReservationApplication.class
+com\bus\reservation\config\SecurityConfig.class
+com\bus\reservation\repository\UserRepository.class
+com\bus\reservation\service\UserService.class
